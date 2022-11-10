@@ -1,5 +1,4 @@
-This repository contains data and software used in the manuscript ["A machine learning method for distinguishing detrital zircon provenance "] submitted to Journal Geophysical Research-Solid Earth on 17th Sep, 2022, by Yang Liu, Shihua Zhong, Sanzhong Li, Ilya Bindeman, Peter A. Cawood, Reimar Seltmann, Jinghui Niu, Guanghui Guo, Jiaqing Liu. All software by the authors is released under an [MIT open-source license](LICENSE)
-
+This repository contains data and software used in the manuscript ["A machine learning method for distinguishing detrital zircon provenance "] submitted to Journal Geophysical Research-Solid Earth on 17th Sep, 2022, by Yang Liu, Shihua Zhong, Sanzhong Li, Ilya Bindeman, Peter A. Cawood, Reimar Seltmann, Jinghui Niu, Guanghui Guo, Jiaqing Liu. All software by the authors is released.
 CONTENTS:
 
 [Data]: This directory contains three independent datasets. These three datasets include 109 I-type zircon analyses, 69 S-type analyses, and 108 A-type analyses. For each zircon analyses, 19 variables—including 11 REEs (Ce, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, and Lu), Nb, Ta, Th, U and 4 derived trace element ratios (Th/U, U/Yb, Ce/Ce* and Eu/Eu*)—were provided in a txt and csv format. The reference sources of all these data can be found in online Supplementary Material (Tables S4 to S6) of this paper.
